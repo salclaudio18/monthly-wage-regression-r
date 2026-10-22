@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*_cache/
+*_files/
+*.log
+*.aux
+*.out
+*.toc
